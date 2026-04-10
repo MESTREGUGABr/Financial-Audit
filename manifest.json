@@ -1,0 +1,9 @@
+{
+  "id": "financial-audit",
+  "name": "Financial Audit",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Track incomes and expenses with categories, sources, and monthly breakdowns inside your vault.",
+  "author": "gwanderley",
+  "isDesktopOnly": true
+}
